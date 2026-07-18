@@ -1,0 +1,21 @@
+/* Your existing CSS */
+
+/* Hero Section */
+.hero {
+   ...
+}
+
+/* Featured Section */
+.featured {
+   ...
+}
+
+/* -------------------------- */
+/* Responsive CSS Starts Here */
+/* -------------------------- */
+
+@media (max-width:768px){
+
+   /* Paste the responsive CSS here */
+
+}
